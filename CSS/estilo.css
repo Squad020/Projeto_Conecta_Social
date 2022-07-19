@@ -1,0 +1,116 @@
+.navbar {
+    border-bottom: 1px solid rgb (0, 0, 0.1);
+}
+
+.navbar .navbar-brand {
+    padding: 0.2rem 0;
+    display: block;
+    text-decoration: none;
+}
+
+.logo-text {
+    font-size: 22px;
+    text-transform: uppercase;
+    color: #6207e2 !important;
+}
+
+.navbar .nav-link {
+    font-size: 15px;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+}
+
+.navbar-light .navbar-nav .nav-link:focus {
+    color: #6207e2;
+}
+
+#logo {
+    float:left;
+}
+
+.col {
+    padding-top: 20px;
+    padding-bottom: 140px;
+}
+
+.texto1 {
+    font-size: 80px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: whitesmoke;
+    text-shadow: 0px 5px rgb(74, 103, 106, 0.2);
+}
+
+.texto2 {
+    font-size: 80px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: whitesmoke;
+    text-shadow: 0px 5px rgb(74, 103, 106, 0.2);
+    text-align: center;
+    
+    
+}
+
+.texto3 {
+    font-size: 25px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: whitesmoke;
+    text-align:center;
+}
+
+.paragrafo {
+    font-size: 19px;
+    padding-top: 25px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: whitesmoke;
+    text-shadow: 0px 5px rgb(74, 103, 106, 0.2);
+}
+
+form {
+    padding-top: 40px;
+}
+
+section {
+    padding-top: 180px;
+}
+
+.corpo {
+    background-color: linear-gradient (rgba (141, 73, 164, 0.3), rgba(141, 73, 164, 0.3));
+    background-image: url("./imagens/pexels-marina-m-8357142.jpg");
+}
+
+.black {
+    color: cornflowerblue;
+}
+
+.btn {
+    font-weight: 700;
+    font-size: 20px;
+    text-transform: uppercase;
+    margin: 10px;
+}
+
+.btn-brand {
+    background-color: whitesmoke;
+    color: #6207e2;
+    box-sizing: border-box;
+    border-radius: 24px;
+    float: right;
+}
+
+footer {
+    bottom: 0;
+    left: 0;
+    height: 50px;
+    width: 100%;
+    position: fixed;
+}
+
+small {
+    color: whitesmoke;
+    text-shadow: 0px 5px rgb(74, 103, 106, 0.2);
+}
+
+img.displayed {
+    margin-left: auto;
+    margin-right: auto;
+}
